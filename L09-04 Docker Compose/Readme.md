@@ -4,11 +4,33 @@
 
     docker compose build
 
+##### explain
+Câu lệnh này dùng để build (xây dựng) lại các image Docker được định nghĩa trong tệp docker-compose.yml.
+
 ## Run the app
 
     docker compose up -d
 
 When the app will run, launch the voting app in your browser http://localhost:5000
+
+##### explain 
+    1. docker compose
+
+    Sử dụng Docker Compose để quản lý nhiều container cùng lúc thông qua docker-compose.yml.
+
+    (Docker đã đổi từ docker-compose sang docker compose từ phiên bản 2.0 trở đi).
+
+    2. up
+
+    Dùng để khởi động tất cả các service (container) được định nghĩa trong docker-compose.yml.
+
+    Nếu image chưa được build hoặc pull, Docker sẽ tự động build hoặc tải về.
+
+    3. -d (detached mode)
+
+    Chạy các container ở chế độ nền (background).
+
+    Nếu không có -d, Docker sẽ chạy container và hiển thị log trên terminal.
 
 
 ## List the containers
