@@ -30,3 +30,6 @@ Let's now use the Deployment template instead of the Pod template.
 ## Cleanup
 
     kubectl delete -f deploy-example.yaml
+
+    
+-- watched

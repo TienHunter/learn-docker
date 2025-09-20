@@ -28,3 +28,5 @@ Get the node public IP address
 
     kubectl delete -f nodeport.yaml
     kubectl delete -f deploy-app.yaml
+
+-- watched

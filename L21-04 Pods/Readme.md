@@ -61,3 +61,5 @@ Print the DBCON environment variable that was set in the YAML file.
 ## Cleanup
 
     kubectl delete -f myapp.yaml
+
+-- watched

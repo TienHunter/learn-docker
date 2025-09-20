@@ -56,3 +56,5 @@ Open a session in nginx-sts-2 and see if the file is still present.
     kubectl delete pvc www-nginx-sts-0
     kubectl delete pvc www-nginx-sts-1
     kubectl delete pvc www-nginx-sts-2
+
+-- watched

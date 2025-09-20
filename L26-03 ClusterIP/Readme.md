@@ -30,3 +30,5 @@
     kubectl delete -f clusterip.yaml
     kubectl delete -f deploy-app.yaml
     kubectl delete -f pod.yaml --grace-period=0 --force
+
+-- watched

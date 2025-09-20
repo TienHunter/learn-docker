@@ -28,3 +28,5 @@ Get the load balancer public IP address. This will output **localhost** on Docke
 
     kubectl delete -f loadbalancer.yaml
     kubectl delete -f deploy-app.yaml
+
+-- watched

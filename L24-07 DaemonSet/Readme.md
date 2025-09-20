@@ -15,3 +15,5 @@ There should be one for each worker node.
 ## Cleanup
 
     kubectl delete -f daemonset.yaml
+
+-- watched

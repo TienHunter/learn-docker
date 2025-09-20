@@ -11,3 +11,5 @@
 ## Cleanup
 
     kubectl delete -f pod.yaml --force --grace-period=0
+
+-- watched

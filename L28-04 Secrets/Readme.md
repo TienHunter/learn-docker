@@ -42,3 +42,5 @@ on Linux/Mac
 
     kubectl delete -f secrets.yaml
     kubectl delete -f pod.yaml --force --grace-period=0
+
+    -- watched

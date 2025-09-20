@@ -50,3 +50,5 @@ Stop the port forward by typing **Ctrl-C**
 
     kubectl delete -f myservice.yaml
     kubectl delete -f myapp.yaml
+
+watched

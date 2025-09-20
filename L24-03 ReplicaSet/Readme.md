@@ -21,3 +21,5 @@ Let's now use the ReplicaSet template instead of the Pod template.
 ## Cleanup
 
     kubectl delete -f rs-example.yaml
+
+watched

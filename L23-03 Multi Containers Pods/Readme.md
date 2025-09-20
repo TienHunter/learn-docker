@@ -28,3 +28,5 @@ This will output the content of the Web page in the terminal.
 ## Cleanup
 
     kubectl delete -f two-containers.yaml --force --grace-period=0
+
+watched

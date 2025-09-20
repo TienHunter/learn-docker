@@ -73,3 +73,5 @@ or
 ## Cleanup
 
     kubectl delete -f hello-deployment.yaml
+
+watched

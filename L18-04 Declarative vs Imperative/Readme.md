@@ -14,3 +14,6 @@ Let's deploy an Nginx container using both methods.
 
     kubectl delete deployment mynginx1
     kubectl delete deploy mynginx2
+
+    
+oke

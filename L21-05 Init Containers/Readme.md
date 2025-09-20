@@ -24,3 +24,6 @@ It should be the one downloaded by the Init container from http://info.cern.ch
 ## Cleanup
 
     kubectl delete -f myapp.yaml
+
+
+watched

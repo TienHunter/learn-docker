@@ -30,3 +30,5 @@ Let's output the same information in YAML format
 
     kubectl delete -f cm.yaml
     kubectl delete -f pod.yaml --grace-period=0 --force
+
+    -- watched

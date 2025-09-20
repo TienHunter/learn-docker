@@ -29,3 +29,5 @@ Get the container's log.  You should see **Hello from the Job**.
 ## Cleanup
 
     kubectl delete -f job.yaml
+
+-- watched

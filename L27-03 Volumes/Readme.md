@@ -56,3 +56,5 @@ Let's delete the pod and deploy it again to validate that the file persisted.
     kubectl delete -f pod.yaml  --force --grace-period=0
     kubectl delete -f pvc.yaml
     kubectl delete -f pv.yaml
+
+-- watched
